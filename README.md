@@ -30,9 +30,9 @@ On the other hand, local storage is used to record the products you added.
 
 <h2>video gif</h2>
 
-![](shop.gif)
+![](shopvideo.gif)
 
 <h2>screenshot</h2>
 
-![](shoplist.gif)
+![](shoplist.PNG)
 
